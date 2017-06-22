@@ -1,0 +1,12 @@
+# Created by .ignore support plugin (hsz.mobi)
+/.idea/
+.gitignore
+.idea/atlassian-ide-plugin.xml
+.idea/azz-docker-images.iml
+.idea/compiler.xml
+.idea/copyright/
+.idea/eslintPlugin.xml
+.idea/misc.xml
+.idea/modules.xml
+.idea/reactTemplatesPlugin.xml
+.idea/workspace.xml
